@@ -7,7 +7,7 @@
     {
       "command": "CARGO_TARGET_DIR=${CARGO_TARGET_DIR:-/tmp/my_first_app/target} && cargo",
       "arguments": [
-        "build",
+        "+nightly build",
         "--release",
         "--target=wasm32-unknown-unknown",
         "--target-dir=$CARGO_TARGET_DIR"
