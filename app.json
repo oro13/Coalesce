@@ -1,6 +1,6 @@
 {
-  "name": "Holochain App Name",
-  "description": "A Holochain app",
+  "name": "Coalesce",
+  "description": "An app for (self) organizing events",
   "authors": [
     {
       "identifier": "Author Name <author@name.com>",
